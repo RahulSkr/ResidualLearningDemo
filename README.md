@@ -1,2 +1,4 @@
-# ResidualLearningDemo
-A demo of the original residual unit and its improvement, as proposed by Kaiming He et al., in TensorFlow.
+# A simple demo of residual learning and its improvements
+
+The file residualBasics.py gives a simple insight into the implementation of the residual units which can be used to build a deep network architecture by stacking the said units. 
+(More description to follow!)
